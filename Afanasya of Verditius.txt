@@ -1,0 +1,68 @@
+Volkhv Afanasya of Verditius
+    Characteristics: Int +3, Per -2, Prs +3, Com -2, Str +0, Sta +1, Dex +1, Qik +0
+    Age 27 (20), Warping 0 (0), Decrepitude 0 (0), Confidence 1 (3), Size -1
+    Personality Traits: Obsessive +5, Ambitious +5, Hyperfocused +3, Autistic +2
+    Reputations: Experimentalist Philosopher [Academic] 3 (30) 
+    Virtues:
+        The Gift [Special] -
+            She possesses the Gift, and is capable of learning Supernatural Abilities and Arts.
+        Hermetic Magus [Free, Social Status] -
+            She is a member of the Hermetic Order, supported by her Covenant.
+        Verditius Magic [Free, Hermetic] -
+            She has the ability Verditius Magic at 1.
+        Doctor in Philosophiae [Major, Social Status] -
+            She is a full graduate of Oxford and has the right to teach students. This grants her an Academic Reputation of 3, and 300xp to be spent on Academic Abilities.
+        Faerie Blood [Minor, Supernatural] -
+            Her bloodline is favored by Svarog, granting her -1 to Aging rolls and +1 to all Craft ability totals.
+        Free Expression [Minor, General] -
+            She gains a +3 bonus when creating a new work of art.
+        Inventive Genius [Minor, Hermetic] -
+            She gains a +3 to her lab totals when not using a lab text or being taught. When experimenting, she instead gains +6.
+        Major Magical Focus (Stone and Metal Craftwork) [Major, Hermetic] -
+            When she casts or generates a Lab Total within her focus, she adds the lowest applicable Art score twice. If the spell has requisites, the lowest applicable Art score may be one of the requisites, rather than the primary Art.
+        Secondary Insight [Minor, Hermetic] -
+            When she studies one of the Hermetic Forms, she gains a single experience point in two of the Hermetic Techniques. When she studies one of the Hermetic Techniques, she gains a single experience point in four of the Hermetic Forms.
+    Flaws:
+        Gender Nonconforming [Minor, Story] -
+            While presenting outwardly female in most respects has very little time for other people's opinions on her presentation. 
+        Primogeniture Lineage [Minor, Story] -
+            Afanasya is seventh in line to become Primus of House Verditius.
+        Small Frame [Minor, General] -
+            She is rather shorter than average, granting her a Size of -1.
+        Bound Casting Tools [Minor, Hermetic] -
+            Her casting tools are tightly bound to her, and maintain an Arcane Connection lasting years.
+        Driven [Major, Personality] -
+            She has an exceptionally driven personality, currently focused on constructing an island where the Magi may rule, bypassing the difficulties of the code. Should she complete this goal, she'd immediately find another.
+        Ambitious [Major, Personality] -
+            She wants to be considered the greatest living Verditius, a true icon of craftsmanship and ability.
+    General Abilities:
+        Living Language: East Slavic [Oration] 5 (75), Living Language: Church Slavonic [Prayers] 2 (15), Athletics [Climbing] 1 (5), Awareness [Hearing] 1 (5), Stealth [Mountains] 1 (5), Folk Ken [Rural] 1 (5), Survival [Mountains] 1 (5), Brawl [Grappling] 1 (5), Craft: Masonry [Sacred Geometry] 4 (50), Craft: Smithing [Iron] 4 (50)
+    Academic Abilities:
+        Dead Language: Latin [Philosophiae] 5 (75), Artes Liberales [Geometry] 5 (75), Philosophiae [Experimentalist] 7 (150)
+    Arcane Abilities:
+        Magic Theory [Without Lab Texts] 5 (75), Parma Magica [Rego] 1 (5), Verditius Magic [Runes] 2 (20), Verditius Lore [Initiations] 5 (75), Koldavoli Theory [Hermetic Lens] 1 (5), Koldun Lore [Magic] 1 (5), Faerie Lore [Gods] 2 (20)
+    Arts:
+        Creo 6 (21), Rego 6 (21), Intellego 6 (21), Muto 6 (21), Perdo 6 (21),
+        Auram 1 (2), Aquam 1 (2), Terram 6 (21), Ignem 1 (2), Vim 1 (2), Mentem 1 (2), Corpus 1 (2), Imaginem 1 (2), Animal 1 (2), Herbam 1 (2)
+    Goetic Arts:
+        Summoning (8)
+    Spells:
+        Call Down The Unworked Iron (CrTe 20)
+            D: Momentary, R: Touch, T: Individual
+            This ritual creates a massive lump of iron, twenty cubic paces worth. The metal is unworked but pure, or close to. Afanasya's casting sigil, which renders things primal and elemental like the gods she still reveres, means this is meteoric iron.
+            (Ritual, Base 5, +1 Touch, Size +2)
+        And Into Ingot Shape It (ReTe 15)
+            D: Momentary, R: Touch, T: Individual
+            This takes a cubic foot of metal from a mass of it and reshapes it. Its intended use is to create metal ingots, but other shapes are possible with Finesse rolls. Afanasya's casting sigil means that the metal is violently pulled from its original mass and magically beaten into shape.
+            (Base 5, +1 Touch, +1 Part)
+        Carve The Earth's Face (Re(Pe)Te 30)
+            D: Concentration, R: Voice, T: Part
+            This spell allows the user to cause ten cubic paces of stone that are already part of something to move in a very unnatural fashion while the concentrate, including diminishing it so as to carve the stone. This requires a Dexterity + Finesse roll. The usual use is to carve it into stone blocks, which is an Ease Factor of 6. Afanasya's casting sigil means that this is presaged by the rumbling of the ground as the Earth splits and the stone is pulled out.
+            (Base 4, +1 Concentration, +2 Voice, +1 Part, +1 Size, +1 Requisite)
+        Wall of Protecting Stone (CrTe 25)
+            R: Voice, D: Sun, T: Ind
+            This spell creates a basalt wall 25 paces wide, 1 pace thick, and 4 paces tall. One needs miner’s tools to break through it, though it can be toppled if it is not connected to a support on its side or top. Afanasya's casting sigil causes the wall to erupt from the surface in question, with the texture of a weathered mountainside.
+            (Base 3, +2 Voice, +2 Sun, +2 size)
+        To Speak With The Earth (InTe 30)
+            R: Touch, D: Conc, T: Ind
+            Allows her to talk with natural stone. The stone's answer will feel slow and ponderous, but does not actually take any longer than a normal conversation. Stone, however, is slow to remember, and has difficulties with directions and awareness of quickly moving things like people.

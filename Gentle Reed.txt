@@ -1,0 +1,80 @@
+Gentle Reed, 4th Rank Priest (Lake Size 7, Maximum Skill Bonus +10)
+Chi: 12/12, River/Aura: [-,-] 2, Joss (C/M): -, 3
+Unspent Destiny (2/20), Unspent Entanglement (0/15), Unspent Cultivation (11/32)
+Skills:
+    Awareness +5, Might +0, Confidence +0, Perform +5
+    Crafting +0, Politics +0, Finesse +0, Ride +0
+    Hardiness +0, Stealth +0, Inspire +5, Survival +5
+    Learning +10, Tactics +0, Medicine +10, Wu Wei +10
+Virtues: 
+- Kuan (Benevolence) 5, Bao (Ferocity) 1
+- Ba (Force) 5, Si (Individualism) 2
+- Xin (Honor) 3, Chan (Obsession) 1
+- Zhong (Loyalty) 1, Chou (Revenge) 1
+- Yi (Righteousness) 4, Hen (Ruthlessness) 1
+- Tao 2
+Kung Fu:
+    External:
+        Destiny-Cloud Fist (0 Destiny Spent) -
+            Weapons: Unarmed
+            Speed +5, Footwork +10, Strike +5, Damage +5, Block +5, Toughness +5
+    Internal:
+        Removing Concepts (0 Destiny Spent) -
+            Basic Technique: Calm Heart Skill (1 Chi)
+                "You are the ocean's grey waves, destined to seek life beyond the shore, just out of reach. Yet the waters ever change, flowing like time - the path is yours to climb."
+                +5 bonus to Awareness or Wu Wei.
+Secret Arts:
+    The Priest's Art -
+        Story of Self (0 Destiny Spent) - 
+            Allows spotting Passions and Inspirations.
+        The Secret Art of Taoist Magic (0 Destiny Spent) -
+            Unlocks: Crafting Curses, Manipulating Influences
+            Allows the use of the Five Methods (Incantations, Finger Gestures, Talismans, Breath Sorcery, Pacing the Constellations) and Four Practices (Prayers, Exorcisms, Divination, and Self-Cultivation) on Priest Arts.
+        The Story of Fortune (3 Destiny Spent) -
+            Allows spotting Curses and Influences.
+        Crafting Curses (0 Destiny Spent) -
+            Manipulation Lore. These Techniques use Learning and are resisted by Wu Wei.
+            Inflaming and Soothing Curses (0 Destiny Spent) - She may soothe and inflame Curses.
+            Paired Curse Technique (5 Destiny Spent) - She may create two Curses - a Hyperactivity   and a Weakness - from nothing; she may only create a Curse/Influence pair if she has this technique for Curses and Influences.
+            Yin-Yang Technique (1 Destiny Spent) - She may use a Curse to create an Influence of the type which Overcomes the nature of the Curse.
+        Extraordinary Taoist Techniques (0 Destiny Spent) -
+            She may unlock various techniques relying on her Arts.
+            Geomantic Formation - Water [Extended/Wave] (4 Destiny Spent) lets her manipulate the Dragon Lines to entrap someone with a Hard Wu Wei Action.
+Loresheets:
+    The Dragon Well Sect (3 Destiny Spent) -
+        3 Status - 
+            She is a member of the Dragon Well Sect.
+        0 Bonus -
+            She may purchase the Taoism Loresheet at -2 Destiny discount.
+        2 Technique: Infinite Universe -
+            She counts fighting Unarmed as fighting with a Ranged Weapon.
+        0 Bonus -
+            She gets a one time -2 Destiny discount on buying Subtle Force or Flowing Universe.
+        0 Technique - 
+            She may learn all Removing Concepts techniques rather than one of each level.
+        Heretical Sage -
+            Not abiding by the tenets of the order and accepting excess and absence, she is a heretical sage seeking strange wisdom in the nature of life. She has a Minor Paired Chi Condition - the Drunken Wanderer's Earth Curse.
+    Taoism (1 Destiny Spent) -
+        0 Bonus - 
+             It is good to not worry too much about material things! By spending a point of Chivalrous Joss, you ensure you’ll find a roof over your head and food in your stomach for the night. By spending a point of Malicious Joss, you ensure you can endure the rage of the elements and the rumblings of an empty belly without problems.
+        5 Destiny - 
+            You are more than a virtuous Taoist – you have taken the first step towards Enlightenment! You start out with a value of 1 in the Tao Virtue, which can be raised like any other; one point of Entanglement from a Deed of the Way goes towards increasing Enlightened Chi; the maximum number of Enlightenment cultivation Destiny she can earn during a Story equals her value in the Tao virtue.
+        1 Status -
+            She has some little fame as a tao-shih, albeit an odd one.
+Equipment:
+    Peachwood Staff, Staff 
+        +5 Strike, +5 Block
+        Flood a die or dice for a Secondary Attack
+    Infinite Universe Fist, Unarmed/Ranged 
+        +5 Speed, +5 Footwork, +5 Strike
+        Focus on Breath with a single die
+        Make attacks against adjacent zones
+        Flood a die from the River to make an attack against further away opponents.
+    Taopao, Light Armor 
+        +5 Chi Threshold
+Conditions:
+    Drunken Wanderer's Curse (Minor Earth Curse) - 
+        Whenever her drunkenness causes her complications and gets her into trouble, she gains a point of Cultivation, at most once per Chapter.
+        Whenever she lingers in a location more than three nights, she suffers a point of Entanglement that creates enemies and complications, though no more than one point thereof per Chapter.
+    New Beginnings Blessing (Major Wood Influence, Recovery 40, Interval) -
+        Whenever she arrives at a new location, she gains a point of Entanglement, though no more than three points thereof per chapter.

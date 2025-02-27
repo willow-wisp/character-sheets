@@ -1,0 +1,25 @@
+Charlotte, Punk Girl (Champion Knight, Drifter)
+Background:
+    Drifter: +1 Fortitude, Survival, Wits
+Attributes:
+    Interaction 3: Guile 3, Perception 4, Persuasion 3, Wits 5
+    Knowledge 2: Education 2, Intuition 5, Proficiency 2, Survival 5
+    Vigor 4: Athletics 5, Fortitude 8, Strength 5, Willpower 8
+Class Features:
+    Authority Score [5]
+    Archetype Ability: Bond
+        She may use her Bond abilities with her Bonded Pokemon. She may use any combination of her Bond Abilities a number of times equal to her Ability Score, and posseses the following Bonds:
+            - Focus Bond - Until the end of the round, the Bonded Pokemon's Affinity rises by its Grade.
+            - Vitalizing Bond - The Bonded Pokemon recovers 8 HP per Grade. No more than once per turn.
+    Merits:
+        Channeled Powers [Multiclass Concordant] -
+            She counts as a Concordant Channeler for purpose of Merits and Pokemon Traits, and gains a Dragon Affinity and a single affinity point, as well as the Channeled Recovery power.
+
+Gible, Gible, Level 1, 6XP
+    EVs: HP 4, Attack 4, Defense 9, Sp.Atk 2, Sp.Def 9, Speed 3, Brawn 3, Talent 1
+    Grit Points: 0/6, Hit Points: 1/28
+    Moves:
+        Tackle
+        Sand Attack
+        Dragon Rage
+        Outrage

@@ -1,0 +1,34 @@
+Sir Reginald de Quincy V, son of Roger of Quincy, 2nd Earl of Winchester, and Helen of Galloway
+    Characteristics: Int +3, Per +1, Prs -1, Com +4, Str -2, Sta -1, Dex 0, Qik -1
+    Age 36 (36), Warping 0 (0), Decrepitude 0 (0), Confidence 1 (3), Faith 1 (1), Size 0
+    Personality Traits: Optimistic +6, Shy +3, Curious +3, Autistic +2
+    Virtues:
+        Doctor in Theology [Major, Social Status] -
+            He is a full graduate of Oxford and has the right to teach students. This grants him an Academic Reputation of 3, and 300xp to be spent on Academic Abilities.
+        Good Teacher [Minor, General] -
+            He adds three to the Quality of books he writes, and five to the Source Quality of anyone who studies with him.
+        True Faith [Major, General] -
+            Reginald truly and completely trusts in the power of the Most High, granting him a True Faith score of 1.
+        Affinity With Teaching [Minor, General] -
+            Reginald increases his advancement totals in Teaching by half, rounded up.
+        Puissant Teaching [Minor, General] -
+            He increases his Teaching skill by 2 when using it.
+        Great Communication [Minor, General] -
+            His Communication is at +4, due to a great talent at explaining things in understandable ways.
+    Flaws:
+        Optimistic [Major, Personality] -
+            Reginald is painfully optimistic, convinced that everything will ultimately turn out for the best.
+        Fragile Constitution [Minor, General] -
+            He is sickly and weak, taking a -3 penalty on all rolls to recover from wounds and disease.
+        Poor Eyesight [Minor, General] -
+            Bleary vision impedes his performance, and all rolls involving sight are at a -3.
+        Short of Breath [Minor, General] -
+            He suffers from a -3 penalty to all Stamina rolls to avoid fatigue, including rolls to maintain Concentration.
+        Diabolic Past [Major, Story] -
+            A brief flirtation with the darker powers of Hell in his time in university left him familiar - and known to - the demonic. His former 'study partners' remember him all too well. He may learn Infernal Lore at character creation.
+    General Skills:
+        Awareness [People] 2 (15), Living Language: English [Books] 5 (75), Stealth [Libraries] 2 (15), Hunt [Fox] 1 (5), Charm [Nobles] 1 (5), Guile [Nobles] 1 (5), Etiquette [Nobles] 3 (30), Teaching [Academic] 8+2 (180), Church Lore [Theologians] 5 (75), Profession: Scribe [Latin] 5 (75), Ride 1 (5), Music [Religious] 2 (15), Leadership [Laboratory] 2 (15), Profession: Steward [Universities] 3 (30), Profession: Poet [Religious] 3 (30)
+    Academic Abilities:
+        Dead Language: Latin [Books] 5 (75), Artes Liberales [Rhetoric] 5 (75), Philosophiae [Experimental] 5 (75), Medicina [Theriacs] 5 (75), Theology: Christian [Repentance] 5 (75), Canon Law [Sorcery] 5 (75)
+    Arcane Abilities:
+        Infernal Lore [Goetic Demons] 5 (75)

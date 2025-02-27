@@ -1,0 +1,83 @@
+Cybele Titanoi bani-Tytalus, 1xp
+    Nature: Architect, Demeanor: Enigma, Essence: Primordial
+    Willpower 5, Arete 3, Quintessence 12/12
+    Resonance:  (Dynamic) Twisting •, (Primordial) Devouring •, (Static) Freezing •
+    Attributes:
+        Physical: Strength 1, Dexterity 3, Stamina 2
+        Social: Charisma 3, Manipulation 3, Appearance 3
+        Mental: Perception [Unsettling] 4, Intelligence [Uncanny] 5, Wits 3
+        Talents: Awareness 4, Expression 2, Intimidation 1, High Ritual [Hermetic] 5
+    Abilities:
+        Skills: Meditation 3, Crafts [Figurines] 2, Fortune Telling 1
+        Knowledges: Academics [Mathematics] 3, Linguistics [Ancient] 5, Enochian [Command] 4, Umbrood Protocols 3, Qlippothic Lore 4, Forbidden Secrets 3+3, Occult 3, Cosmology 3
+    Languages:
+        English, Linguistic Theory, Haah’rath Kharoh, Akkadian, Sumerian, Hittite, Amorite, Ugaritic, Koine Greek, Aramaic, Hebrew, Latin, Arabic, (Ancient) Egyptian, Demotic, Sanskrit, Avestan
+    Spheres:
+        Diabolism (Star-Mark) 3
+        Mind (True Names) 3
+        Spirit (Seal of Solomon) 3
+        Death (Blood) 1
+        Correspondence (Sacred Geometry) 1
+        Entropy (Sigils and Stars) 1
+        Prime (Pentacles) 1
+    Backgrounds:
+        Avatar 5 -
+            Her Avatar, the raging Void within her, is tremendously, horribly powerful, allowing her to store 5 Quintessence and expend or gain up to 5 Quintessence per turn.
+        Totem 5 -
+            Her Totem, Tiamat, favors Terrible Secrets, granting Cosmology 3 and Qlippothic Lore 4. Tiamat does not manifest, but extrusions of hers and servants of hers may.
+        Legend 5 -
+            Fulfilling the legendary role of the Devil, she has three points of 'free' Permadox. Each week, she generates 10 points of Quintessence which may be accessed through meditation or performing appropriate acts to her legend. An additional 10 points of Quintessence per week may be imbued to create appropriate Tass, with a Legend roll versus Difficulty 6.
+        Arcane 5 -
+            She adds her Arcane rating to rolls to avoid notice, and subtracts her Arcane rating from the Perception or Investigation rolls of others.
+        Library 1 -
+            She has only a minor collection of books at the current moment, thanks to her speedy departure.
+    Merits:
+        Nephilim (7pt. Metaphysical Merit) -
+            As the offspring of Asmodeus-Belial-Leviathan, she is flowing with terrible power.
+            She has three dots of Resonance rather than one at the beginning, her aura blazing with terrible power. She has a Quintessence Rating of 7 which she refills up to every midnight. 
+            Mind and Spirit sphere effects dealing with Qlippoth or the High Umbra decrease by one, and may enter the High Umbra physically. She receives two dice to intimidate, command, or make demands of such creatures.
+            She suffers a +2 penalty to resist the effects of Abrahamic ritual magic (including Hermetic High Ritual).
+            She receives 7 points of Investments or Advantages.
+            She must take 3 points of flaws representing the effects of her heritage, receiving no points for them.
+        Celestial Affinity: Qlippoth (3pt. Metaphysical Merit) -
+            She reduces the difficulty of rolls to summon, compel, coax, bind, bargain, and otherwise influence creatures of the Void and Outer Darkness.
+        Mark of Favor (3pt. Metaphysical Merit) -
+            Her Devil's Mark has its benefits, in the touch of Tiamat.
+            When dealing with people who recognize the mark and respect the forces of the Outer Dark in question, it reduces the difficulty of social rolls by 2; against those who oppose her patrons, it increases the difficulty of non-Intimidation social rolls by 2, but provides the reduction to Intimidation. It may be used as a personalized, unqiue instrument.
+        Confidence (2pt. Social Merit) -
+            She reduces the difficulties of social rolls based upon impressing other characters with your capabilities, and rolls to shake her confidence are at +2.
+        Jack-of-all-Trades (3pt. Mental Merit) -
+            When rolling against an Ability that she does not have, she has the equivalent of one dot in that Ability.
+        Concentration (1pt. Mental Merit) -
+            When performing an act which requires concentration, she ignores any penalty from distraction, though certain intense distractions (such as an active hurricane) may require a Willpower roll against Difficulty 6.
+        Hyperfocus (3pt. Mental Merit) -
+            For each hour spent without distractions on a mundane task, she adds one die, up to three dice, on all extended actions involved.
+        Sphere Natural: Mind (6pt. Metaphysical Merit) -
+            The cost of purchasing the Mind sphere is (Sphere Rating x 5).
+    Flaws:
+        Child (1pt. Physical Flaw) -
+            She appears to be an adolescent girl - specifically, a girl of 13 years of age.
+        Short (3pt. Physical Flaw) -
+            As a result, she is short; she moves half normal speed, lacks physical leverage, and suffers from social difficulties.
+        Devil's Mark / Primal Mark (4pt. Supernatural Flaw) -
+            On her left hand there is what appears to be a burn mark - in the form of an inverted pentacle with the Tav symbol in the center. It is insensate to pain, but clearly reveals that she is marked by the Outer Dark, at least to those who understand. A Familiar can kiss it to be fed Quintessence in place of Tass.
+        Echoes 5 (5pt. Metaphysical Flaw) -
+            She ripples with paranormal energies - shadows darken, whispers haunt those who are alone, scavengers and predator animals love her, while prey animals flee; the room grows cold, her shadow writhes out of the corner of your eye. A person who knows the proper folklore may use (Intelligence + Occult) as countermagick against her (Difficulty of her Arete + 3), and proper prayers and similar deal one level of lethal damage for each success in a contested  Willpower roll.
+        Overconfident (1pt. Mental Flaw) -
+            She's the best she is at what she does. If other folks disagree, then that’s problem, not hers. She must roll Willpower versus Difficulty 6 to back down from a challenge in her fields of specialty.
+    Investments:
+        Occult Awareness (4pt. Investment) -
+            Her nature as a Nephilim gives her a direct line to the secrets of the Outer Dark, granting 3 dots to Occult, Awareness, and Forbidden Secrets.
+        Shadow Appeal (3pt. Investment) -
+            She has a razor sharp, cold insight into the shadow psyche of those around her. This grants a -2 to the difficulty of social rolls that appeals to the shadow, and can reduce this difficulty beyond the -3 limit.
+
+    Rotes:
+        Void Attunement (Diabolism 4) -
+            Focus: Star-Mark
+            Pressing her star-marked hand to someone's forehead, the target can survive and breathe in hard vacuum. This also grants one die of soak against qlippothic energies. This grants others a point of Entropic Resonance for as long as the effect lasts. By spending Quintessence in the process, this additionally staves off Void Adaptation for a number of weeks equal to the Quintessence spent.
+        Wisdom of the Outer Dark (Mind 4 / Diabolism 1) -
+            Focus: Meditation
+            Through meditation on the Outer Dark, she may cast her mind into it and attempt to draw forth knowledge. For each success, she gains one dot in an Ability. She suffers a number of dice of bashing damage equal to the Abilities she learned due to the energies of the Outer Dark; for each success on a Willpower roll against difficulty 6, she reduces the damage taken by one die. 
+        Void-Scouring (Diabolism 3 / Mind 3) -
+            Focus: Star-Mark
+            Channeling the terrible powers of the Void, this effect lashes out to cause terrible harm. Spending a point of Quintessence, the caster lashes out with terrible, Vulgar blasts of anti-light. This effect deals Aggravated damage and causes the target to lose a point of temporary Willpower; if they are out of temporary Willpower, this damages *permanent* Willpower. Reducing permanent Willpower to 0 renders the target permanently catatonic. Each point of Willpower drained in this way generates one point of Quintessence; this attack may never hit multiple targets.
