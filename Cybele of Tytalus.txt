@@ -1,0 +1,87 @@
+Cybele filia Eurydice of Tytalus
+    Age 23 (22), Warping 0 (0), Decrepitude 0 (0), Confidence 2 (1), Size -1
+    Characteristics: Int +2, Per -2, Prs +2, Com +2, Str -1, Sta +0, Dex +0, Qik +1 
+    Personality Traits: Proud +6, Hyperfocused +2, Autistic +2
+    Virtues:
+        The Gift [Special] -
+            She possesses the Gift, and is capable of learning Supernatural Abilities and Arts.
+        Hermetic Magus [Free, Social Status] -
+            She is a member of the Hermetic Order, supported by her Covenant.
+        Self-Confident [Free, Minor, General] -
+            Thanks to the training of House Tytalus, she has a Confidence score of 2, and starts with 5 Confidence points instead of 3.
+        Major Magical Focus: Spirits [Major, Hermetic] -
+            As befits a member of the Titanoi, she is quite skilled in the manipulation of spirits. 
+            When she casts or generates a Lab Total within her focus, she adds the lowest applicable Art score twice. If the spell has requisites, the lowest applicable Art score may be one of the requisites, rather than the primary Art.
+        Spell Binding [Minor, Hermetic] -
+            She has been tought the secrets of spell binding, a means by which a magus may imbue a spirit into an object and compel them to sustain the spell indefinitely. See the Mysteries Revised, p.27-28.
+        Affinity With Rego [Minor, Hermetic] -
+            Her natural skill with the Technique of Commanding means that whenever she generates a Rego study total, she increases it by half its base value, rounded up. At character creation, any experience points she puts into it are also increased by one half, rounded up.
+        Affinity With Vim [Minor, Hermetic] -
+            Her natural skill with the Form of Power means that whenever she generates a Vim study total, she increases it by half its base value, rounded up. At character creation, any experience points she puts into it are also increased by one half, rounded up.
+        Apt Student [Minor, Hermetic] -
+            Whenever she is being taught by another, she adds five to her Advancement total.
+        Skilled Parens [Minor, Hermetic] -
+            Her parens was a better teacher than was common, granting her an additional 60xp and 30 spell levels during her apprenticeship. This Virtue has no effect after character creation.
+        Puissant Titanoi Lore [Minor, General] -
+            Her learnings of the Titanoi came rather quicker than expected. She adds a +2 bonus to totals involving Titanoi Lore whenever she is using it.
+        Affinity With Titanoi Lore [Minor, General] -
+            Her studies of the Titanoi are enhanced by her tutelage under the spirit of Glendalough lake. 
+        Hermetic Theurgy [Minor, General] -
+            She may design and learn spells of Hermetic Theurgy.
+    Flaws:
+        Blatant Gift [Major, Hermetic] -
+            People immediately realize there is something strange about her, even if they do not realize she is a Magus, granting her -6 to all interaction rolls with normal people and animals.
+        Gender Nonconforming [Minor, Social] -
+            While presenting outwardly female in most respects has very little time for other people's opinions on her presentation. She prefers "magos" - the Greek term - to "maga".
+        Proud [Major, Personality] -
+            The Art is a heady thing, and while Cybele may deign to express her Covenant-mates as her equals, she has no superiors. She is not *quiet* about this opinion.
+        Small Frame [Minor, General] -
+            She is rather shorter than average, granting her a Size of -1.
+        Weakness [Minor, Personality] -
+            She has a soft spot for children; in the face of them, common sense, duty, and promises are all quickly forgotten.
+    General Abilities:
+        Living Language: Greek [Theological] 5 (75), Folk Ken [Magi] 1 (5), Area Lore: Greece [Mytilene] 1 (5), Area Lore: Ulster [Hinterlands] 1 (5), Guile [Passing Blame] 2 (15), Survival [Cities] 2 (15), Teaching [Hermetic Magic] 0 (2), Titanoi Cult Lore [Initiations] 3+2 (42)
+    Academic Abilities:
+        Artes Liberales [Ceremonial Magic] 3 (41), Dead Language: Latin [Hermetic] 5 (75)
+    Arcane Abilities:
+        Magic Theory [Vim] 3 (45), Parma Magica [Perdo] 1 (5), Magic Lore [Spirits] 3 (30), Penetration [Vim] 2 (20), Faerie Lore [Faerie Gods] 1 (7)
+    True Names:
+        True Name of Anu, Faerie God 1 (5)
+    Arts:
+        Creo 2 (3), Rego 11 (66), Intellego 2 (5), Muto 2 (3), Perdo 2 (3),
+        Auram 2 (3), Aquam 2 (3), Terram 2 (3), Ignem 2 (3), Vim 11 (69), Mentem 2 (5), Corpus 5 (17), Imaginem 2 (3), Animal 2 (3), Herbam 2 (3)
+    Goetic Arts:
+        Summoning 4 (12)
+    Spells:
+        Coerce the Airy Spirit (ReVi 20) -
+            R: Voice, D: Conc, T: Ind
+            Through the use of lurid threats, she may command a spirit to do her bidding. If the spell penetrates the spirit’s Magic Resistance, make a stress roll of Com + Leadership to see how effective the maga’s threats are. The storyguide should always give a bonus or penalty depending on the potency of the threats, but note that any roll other than a botch compels at least minimal obedience, while increasing rolls indicate a more cooperative spirit.
+            This spell affects any spirit so long as they are affiliated with the Magic Realm.
+            Her Sigil causes spirits so commanded to appear with iron shackles somewhere on their form when perceived.
+            Base 5, +2 Voice, +1 Concentration
+        Coerce the Infernal Spirit (ReVi 20) -
+            R: Voice, D: Conc, T: Ind
+            As Coerce the Airy Spirit, but applying to spirits aligned with the Infernal instead.
+        Aegis of the Hearth (ReVi 25) -
+            R: Touch, D: Year, T: Bound, Ritual
+            Perform the Aegis of the Hearth, see AM5 p. 161
+        Aegis of the Hearth (ReVi 40) -
+            As above, but cast at level 40.
+        Circular Ward Against Airy Spirits (ReVi 20) - 
+            R: Touch, D: Ring, T: Circle
+            All creatures with Magic Might equal to or less than the level of the spell cannot cross the boundary or harm those on the other side of it. At night, from certain angles, one can see patterns of iridescent chains covering the circle.
+        Circular Ward Against Infernal Spirits (ReVi 20) -
+            As Circular Ward Against Airy Spirits, but applying to Infernal Might instead.
+        Invoke the Pact of Pukis, Dragon of the Hearth (ReVi 20) -
+            R: Arc, D: Mom, T: Ind, Ritual
+            Through the invocation of the minor Daimon known as Pukis, so long as this spell penetrates the spell resistance of Pukis (Might 10), an aspect of the Dragon of the Hearth can be summoned. While not terribly powerful, so long as he is allowed to rest within a constantly-burning hearth, the ashes can be collected for a pawn of Ignem vis each season.
+        Invoke the Pact of Geryon Cattle-Herder (ReVi 30) -
+            As Invoke the Pact of Pukis, but generating 10 points towards summoning a Might 20 Aspect of Geryon Cattle-Herder.
+        Sustain A Spell of Vim (ReVi 25) -
+            R: Touch, D: Special (Sun), T: Ind, Ritual)
+            This spell imbues a vessel to hold a spirit to maintain a spell. After the casting of a non-ritual spell with a duration greater than momentary, before the duration of this spell or the spell to be held is expired, a spirit may be commanded into the vessel, which is then bound within to power the spell indefinitely. See The Mysteries Revised p.28 for further information.
+            General, +2 Sun
+        Invoke the Spirit Avdol (Re(Cr)Vi(Ig) 25
+            R: Special (Voice), D: Special (Momentary), T: Special (Part)
+            This spell, a mystery enchantment, invokes a spell spirit, which may cast the equivalent of the spell Pilum of Fire, modified to have a Part target for this purpose. Once invoked, the spirit must be given instructions - which allow for varying the effects of the spell, similar to Flexible Formulaic Magic. The first time this spell is cast after being invented, the spell must penetrate in order to seal the pact.
+            (Base 20, +1 Modified Target)

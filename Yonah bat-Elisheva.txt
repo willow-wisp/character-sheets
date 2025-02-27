@@ -1,0 +1,55 @@
+Yonah bat-Elisheva
+    Age 38 (38), Warping 0 (0), Decrepitude 0 (0), Confidence 1 (3), Faith 2 (2) [15], Size 0
+    Characteristics: Int +3, Per +1, Prs -1, Com +3, Str -3, Sta +2, Dex +0, Qik +0
+    Personality Traits: Pious +6, Honest +2, Curious +2, Quiet +1
+    Reputation: Physician of Salerno [Academic] +3 (45), Jewish -2 (-15), Storyteller [Jewish] 4 (65)
+    Virtues: 
+        Magister in Medicina [Major, Social Status] -
+            Yonah has achieved a doctorate in medicine from Salerno, and completed two years compulsory teaching. This grants an additional 300 experience points which must be spent on Academic Abilities and Latin. Yonah also begins with an Academic Reputation of 3.
+        Physician of Salerno [Minor, General] -
+            Having studied at Salerno and become a physician there, Yonah has a Reputation of "Physican of Salerno" at 2, and has learned unique medical practices such as "anesthetics". This grants Yonah a further 50xp to spend on Medicina, Philosophiae, and medical formulae.
+        Educated (Hebrew) [Minor, General] -
+            Having been taught in a yeshivah, Yonah may learn Academic Abilities and gains 50 XP to spend on Hebrew, Aramaic, Theology: Judaism, Judaic Lore, and Artes Liberales.
+        Student of the Divine [Minor, General] -
+            Yonah has been trained in the mystical aspects of the Dominion and the Empyrean, granting a +2 bonus to the Divine Lore score for the purpose of using it, and allowing Yonah to learn Divine Lore without being able to learn other Arcane Abilities.
+        Affinity With Medicinia [Minor, General] -
+            All Yonah's advancement totals for Medicina are increased by half, rounded up.
+        True Faith [Major, General] -
+            Yonah's abiding faith in the Most High is sufficient to provide confidence and a resistance to harmful magics.
+            Additionally, at True Faith 2, Yonah may spend a Faith point to dispel any glamour or supernatural illusion.
+        Good Teacher [Minor, General, Holy] -
+            Thanks to Yonah's pilgrimage, Yonah better understands the voice of the Most High, and may teach, as He instructed. Yonah adds three to the Quality of any books Yonah writes, and five to Source Quality when teaching.
+        Premonitions [Minor, General, Holy] -
+            The presence of the Most High alerts Yonah to danger, granting Yonah the Premonitions ability at 1.
+    Flaws:
+        Gender Nonconforming [Minor, General] -
+            Yonah's - deliberate - androgyny inspires some less-than-pleasant whispers, though Yonah generally ignores them.
+        Pious [Major, Personality] -
+            Yonah is a devout Kabbalistic Jew, and will stick to the faith even when threatened. Additionally, Yonah is unable to work on the Shabbat, and therefore always loses 12 days a season.
+        Outsider [Major, Social Status] -
+            As a Jewish person and openly so, Yonah has a negative reputation at 2 of "Jewish".
+        Vow [Minor, Personality] -
+            Yonah has sworn never to harm another except in the pursuit of pikuach nefesh.
+        Ability Block [Minor, General] -
+            Yonah is incapable of learning Martial Abilities.
+        Foreign Upbringing [Minor, Personality] - 
+            Being from the Holy City, Yonah's manners and mannerisms are quite strange.
+    Abilities:
+        General Abilities:
+            Living Language: Arabic [Religious] 5 (75), Living Language: Hebrew [Religious] 3 (35), Area Lore: Jerusalem [Jewish Quarter] 1 (5), Folk Ken [Jewry] 2 (15), Charm [Friendliness] 1 (5), Judaic Lore [Angels] 1 (5), Profession: Apothecary [Medical] 6 (106), Chirurgy [On the Anesthesized] 6 (105), Etiquette [Academic] 1 (5), Teaching [Academic] 6 (116)
+        Academic Abilities:
+            Dead Language: Latin [Philosophical] 5 (75), Artes Liberales [Geometry] 5 (75), Theology: Judaism [Kabbalah] 4 (50), Philosophiae [Experimental] 4 (51), Medicina [Theriacs] 10 (320)
+        Arcane Abilities:
+            Divine Lore [Angels] 1+2 (10)
+        Holy Methods and Powers:
+            Kabbalah [Creation] 1 (8), Merkavah [Angels] 1 (8), Blessing [Health] 1 (8)
+    Theriac Formulae:
+        Cataplasm of Mandrake (Theriac Level 5, Potency: Moderate)
+            A thick paste of mandrake and hyoscyamus, this is a local anesthetic; when applied to a body part, that body part becomes numb, inflicting three levels of Fatigue, but reducing any Wound or Disease penalties by 3. The body part remains numb until the inflicted fatigue levels are recovered.
+            Base 3, +2 Moderate
+        Soporific Sponge (Theriac Level 15, Potency: Mighty)
+            A combination of opium, mandrake, hemlock and hyoscyamus, this soporific is soaked into a sponge and then placed against the mouth and nose for a few minutes, causing a deep slumber. The patient is reduced to the unconscious fatigue level and remains that way for two hours. When the patient comes around, the Fatigue Penalty they suffer is subtracted from any Wound or Disease penalties. A surgeon who operates on a patient who has been stupefied with the theriac adds +2 to the surgery roll and rolls 2 fewer botch dice, to a minimum of zero.
+            Base 3, +4 Mightycommonly refers to jacob
+        Tonic of Gold (Theriac Level 5, Potency: Weak)
+            This tonic, made with minute quantities of gold, restores a Winded character to a non-fatigued state. It cannot affect a character who has lost more than one Fatigue level.
+            Base 5
