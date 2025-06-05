@@ -1,0 +1,69 @@
+Antoine d'Pomme, Devil-Child
+    Characteristics: Int +2, Per +1, Pre +1, Com +1, Str -2, Sta +1, Dex +1, Qik +1
+    Age 37 [36] (37), Might [Corpus] 5 (5), Decrepitude 0 (0), Confidence 1 (3), Anti-Faith 1 (1), Size 0
+    Personality Traits: Vain +6, Hedonistic +3, Curious +3, Hates the Divine +3
+    Virtues:
+        False Gift [Special] -
+            She possesses the Bargain, the Infernal analogue of the Gift. As she is not a Magus, she starts with an Infernally-aligned supernatural ability Corruption.
+        Devil Child [Special] -
+            She is a Mythic Companion.
+        Puissant Guile [Minor, General, Free] -
+            She adds +2 to her Guile whenever using it.
+        Wise One [Social Status, Free] -
+            
+        Demonic Blood [Major, Supernatural, Tainted] - 
+            She has an Infernal Might (Corpus) of 5, and 30 levels of powers, with their Might Cost being the magnitude divided by two, rounded down, minimum one.        
+        False Faith [Major, Supernatural, Tainted] -
+            She has the benefits of a Faith score, except the granted powers are Infernal instead of Divine and assume sin rather than virtue.
+        Inoffensive to Animals [Minor, Supernatural] -
+            Despite the blatant and unnatural air about her, animals are not bothered by it.
+        Animal Ken [Minor, Supernatural] -
+            She gains the ability Animal Ken at ability 1.
+        Enticer of Multitudes [Minor, General, Tainted] -
+            She has a version of the inspirational virtue that may only be used to manipulate people toward sinful acts; she appears demagogic rather than heroic. Individuals in a group must make Personality Trait rolls for the particular sin they are attempting to evoke, with a bonus of +5 or more.
+        Debauchery [Major, Supernatural] -
+            She gains the Infernal Method of Debauchery at level 0, and it is treated as an Accelerated Ability.
+        Consumption [Major, Supernatural] - 
+            She gains the Infernal Power of Consumption at level 0, and it is treated as an Accelerated Ability.
+        Ablation [Major, Supernatural] -
+            She gains the Goetic Art of Ablation at level 0.
+        Student of the Infernal [Minor, General] -
+            She has been trained in the mystical aspects of the Infernal, and may take it at character creation. She has +2 to all uses of this Lore.
+        Mentored by Demons [Minor, General, Tainted] -
+            She was tutored by demons, and may raise ability scores beyond the normal maximum for her age, may learn any category of ability, and gains 50 points of experience to spend on any Abilities.
+    Flaws:
+        Vain [Major, Personality]
+            She has the Personality Trait of 'Envious', with the specific connotation of 'need to be the most X person in the room', at +6.
+        Blatant Gift [Major, Supernatural] -
+            She is disturbing to people around her, with a -6 to social rolls.
+        Gender Non-Conforming [Minor, Story]
+            She is a transgender lesbian. This does occasionally cause problems. Then the problems tend to die messily.
+        Vulnerable to Folk Tradition [Minor, Hermetic] -
+            A target who knows she has just tried magic may perform appropriate cultural counter-rituals (to ward off the evil eye or similar), gaining a Magic Resistance of their (Magic Lore x 5, minimum 0), against her magic only. Someone with Magic Lore may be able to devise a manner to break a lasting enchantment, typically requiring Intelligence + Magic Lore against an Ease Factor 9 + Spell's Magnitude.
+        Witch Marks [Minor, Hermetic] -
+            She must wear long clothes and gloves to hide her talon-feet and the pomegranate-shaped burn on her palm.
+        Feral Scent [Minor, General] -
+            She suffers a -1 to social interactions, stacking with her Gift penalties, and has a negative Reputation of Unclean at 2. She smells like graveyard dirt after a fresh rain.
+    Abilities:    
+        General Abilities:
+            Living Language: French [Conversational] 5 (75), Folk Ken [Lower Classes] 3 (30), Charm [Lower Classes] 3 (30), Guile [Lower Classes] 3+2 (30), Leadership [Sorcery] 3 (30), Etiquette [Lower Classes] 3 (30), Bargain [Infernal] 3 (30), Intrigue [Infernal] 3 (30), Legerdemain [Witchcraft] 3 (30), Stealth [Forests] 3 (30), Animal Handling [Scavengers] 3 (30), Awareness [Supernatural] 3 (30), Teaching 3 (30), Music [Sinful] 1 (5)
+        Academic Abilities:
+            Dead Language: Latin [Blasphemous] 4 (50), Artes Liberales [Astronomy] 1 (5), Philosophiae [Natural] 1 (5), Medicina [Theriacs] 1 (5), Profession: Herbalist [Poisons] 1 (5)
+        Arcane Abilities:
+            Chthonic Magic - Accelerated [Vampiric] 2 (5), Concentration [Sorcery] 3 (30), Finesse [Seductive] 3 (30), Infernal Lore [Black Magic] 3+2 (30), Penetration [Might Scores] 1 (5)
+        Supernatural Abilities - Accelerated:
+            Corruption [Witchcraft] 1 (1), Animal Ken [Owls] 1 (1), Ceremony [Diablerie] 4 (10)
+        Goetic Arts:
+            Ablation 5 (15), Binding 5 (15)
+        Maleficia:
+            Debauchery [Consumption] 6 (25), Consumption [Vampiric] 6 (25), Incantation [Diablerie] 6 (25), Diablerie [Incantation] 6 (25)
+    Powers:
+        Brother to Jackals, Companion to Owls, Init +1, 1 point, Imaginem: 
+            With a brief prayer in a long-forgotten language, Antoine takes flight as a screech-owl the size of a man until the next Twilight.
+            Should the phantasm be broken - by the touch of pomegranate wood or by the Divine - then she returns to her normal form, and may well fall quite messily.
+            Debauchery/Phantasm 15 (Base 5, +2 Sun)
+        Cocoon of Pain and Loneliness, Init +1, 1 point, Auram:
+            Focusing on all the flaws of a world designed by an evil God, a thick mist rises up out to her Voice range.
+            Debauchery/Effusion (Base 4, +2 Voice, +1 Diam)
+    Spells:
+        

@@ -42,7 +42,7 @@ Yonah bat-Elisheva
         Arcane Abilities:
             Divine Lore [Angels] 1+2 (10)
         Holy Methods and Powers:
-            Kabbalah [Creation] 1 (8), Merkavah [Angels] 1 (8), Blessing [Health] 1 (8)
+            Kabbalah [Creation] 1 (8), Merkavah [Angels] 1 (8), Blessing [Health] 1 (8), Wonders 1 (8)
     Theriac Formulae:
         Cataplasm of Mandrake (Theriac Level 5, Potency: Moderate)
             A thick paste of mandrake and hyoscyamus, this is a local anesthetic; when applied to a body part, that body part becomes numb, inflicting three levels of Fatigue, but reducing any Wound or Disease penalties by 3. The body part remains numb until the inflicted fatigue levels are recovered.

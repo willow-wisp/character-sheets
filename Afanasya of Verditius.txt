@@ -1,6 +1,6 @@
 Volkhv Afanasya of Verditius
     Characteristics: Int +3, Per -2, Prs +3, Com -2, Str +0, Sta +1, Dex +1, Qik +0
-    Age 27 (20), Warping 0 (0), Decrepitude 0 (0), Confidence 1 (3), Size -1
+    Age 27 (20), Warping 0 (1), Decrepitude 0 (0), Confidence 1 (3), Size -1
     Personality Traits: Obsessive +5, Ambitious +5, Hyperfocused +3, Autistic +2
     Reputations: Experimentalist Philosopher [Academic] 3 (30) 
     Virtues:
@@ -42,8 +42,8 @@ Volkhv Afanasya of Verditius
     Arcane Abilities:
         Magic Theory [Without Lab Texts] 5 (75), Parma Magica [Rego] 1 (5), Verditius Magic [Runes] 2 (20), Verditius Lore [Initiations] 5 (75), Koldavoli Theory [Hermetic Lens] 1 (5), Koldun Lore [Magic] 1 (5), Faerie Lore [Gods] 2 (20)
     Arts:
-        Creo 6 (21), Rego 6 (21), Intellego 6 (21), Muto 6 (21), Perdo 6 (21),
-        Auram 1 (2), Aquam 1 (2), Terram 6 (21), Ignem 1 (2), Vim 1 (2), Mentem 1 (2), Corpus 1 (2), Imaginem 1 (2), Animal 1 (2), Herbam 1 (2)
+        Creo 7 (29), Rego 6 (21), Intellego 6 (21), Muto 6 (21), Perdo 6 (21),
+        Auram 1 (2), Aquam 1 (2), Terram 7 (33), Ignem 1 (2), Vim 1 (2), Mentem 1 (2), Corpus 1 (2), Imaginem 1 (2), Animal 1 (2), Herbam 1 (2)
     Goetic Arts:
         Summoning (8)
     Spells:

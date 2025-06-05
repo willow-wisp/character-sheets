@@ -1,5 +1,5 @@
 Cybele filia Eurydice of Tytalus
-    Age 23 (22), Warping 0 (0), Decrepitude 0 (0), Confidence 2 (1), Size -1
+    Age 23 (22), Warping 1 (6), Decrepitude 0 (0), Confidence 2 (1), Size -1
     Characteristics: Int +2, Per -2, Prs +2, Com +2, Str -1, Sta +0, Dex +0, Qik +1 
     Personality Traits: Proud +6, Hyperfocused +2, Autistic +2
     Virtues:
@@ -44,14 +44,14 @@ Cybele filia Eurydice of Tytalus
     Academic Abilities:
         Artes Liberales [Ceremonial Magic] 3 (41), Dead Language: Latin [Hermetic] 5 (75)
     Arcane Abilities:
-        Magic Theory [Vim] 3 (45), Parma Magica [Perdo] 1 (5), Magic Lore [Spirits] 3 (30), Penetration [Vim] 2 (20), Faerie Lore [Faerie Gods] 1 (7)
+        Magic Theory [Vim] 3 (47), Parma Magica [Perdo] 1 (5), Magic Lore [Spirits] 3 (30), Penetration [Vim] 2 (20), Faerie Lore [Faerie Gods] 1 (7), Chthonic Magic [Vim] 1 (6)
     True Names:
         True Name of Anu, Faerie God 1 (5)
     Arts:
-        Creo 2 (3), Rego 11 (66), Intellego 2 (5), Muto 2 (3), Perdo 2 (3),
-        Auram 2 (3), Aquam 2 (3), Terram 2 (3), Ignem 2 (3), Vim 11 (69), Mentem 2 (5), Corpus 5 (17), Imaginem 2 (3), Animal 2 (3), Herbam 2 (3)
+        Creo 2 (3), Rego 11 (72), Intellego 2 (5), Muto 2 (3), Perdo 2 (3),
+        Auram 2 (3), Aquam 2 (3), Terram 2 (3), Ignem 2 (3), Vim 11 (72), Mentem 2 (5), Corpus 5 (17), Imaginem 2 (3), Animal 5 (15), Herbam 2 (3)
     Goetic Arts:
-        Summoning 4 (12)
+        Summoning 4 (12), Ablating 4 (12)
     Spells:
         Coerce the Airy Spirit (ReVi 20) -
             R: Voice, D: Conc, T: Ind

@@ -1,6 +1,6 @@
 Sir Reginald de Quincy V, son of Roger of Quincy, 2nd Earl of Winchester, and Helen of Galloway
-    Characteristics: Int +3, Per +1, Prs -1, Com +4, Str -2, Sta -1, Dex 0, Qik -1
-    Age 36 (36), Warping 0 (0), Decrepitude 0 (0), Confidence 1 (3), Faith 1 (1), Size 0
+    Characteristics: Int +3, Per +1, Prs -1 (1), Com +4 (1), Str -2, Sta -1, Dex 0, Qik -1
+    Age 36 (36), Warping 0 (1), Decrepitude 0 (0), Confidence 1 (3), Faith 1 (1), Size 0
     Personality Traits: Optimistic +6, Shy +3, Curious +3, Autistic +2
     Virtues:
         Doctor in Theology [Major, Social Status] -
@@ -27,7 +27,7 @@ Sir Reginald de Quincy V, son of Roger of Quincy, 2nd Earl of Winchester, and He
         Diabolic Past [Major, Story] -
             A brief flirtation with the darker powers of Hell in his time in university left him familiar - and known to - the demonic. His former 'study partners' remember him all too well. He may learn Infernal Lore at character creation.
     General Skills:
-        Awareness [People] 2 (15), Living Language: English [Books] 5 (75), Stealth [Libraries] 2 (15), Hunt [Fox] 1 (5), Charm [Nobles] 1 (5), Guile [Nobles] 1 (5), Etiquette [Nobles] 3 (30), Teaching [Academic] 8+2 (180), Church Lore [Theologians] 5 (75), Profession: Scribe [Latin] 5 (75), Ride 1 (5), Music [Religious] 2 (15), Leadership [Laboratory] 2 (15), Profession: Steward [Universities] 3 (30), Profession: Poet [Religious] 3 (30)
+        Awareness [People] 2 (15), Living Language: English [Books] 5 (75), Stealth [Libraries] 2 (15), Hunt [Fox] 1 (5), Charm [Nobles] 1 (5), Guile [Nobles] 1 (5), Etiquette [Nobles] 3 (30), Teaching [Academic] 8+2 (192), Church Lore [Theologians] 5 (75), Profession: Scribe [Latin] 5 (75), Ride 1 (5), Music [Religious] 2 (15), Leadership [Laboratory] 2 (15), Profession: Steward [Universities] 3 (30), Profession: Poet [Religious] 3 (30)
     Academic Abilities:
         Dead Language: Latin [Books] 5 (75), Artes Liberales [Rhetoric] 5 (75), Philosophiae [Experimental] 5 (75), Medicina [Theriacs] 5 (75), Theology: Christian [Repentance] 5 (75), Canon Law [Sorcery] 5 (75)
     Arcane Abilities:
